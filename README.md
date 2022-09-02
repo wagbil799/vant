@@ -99,3 +99,7 @@ Scan the qrcode to join our wechat discussion group, please note that you want t
 ## LICENSE
 
 [MIT](https://en.wikipedia.org/wiki/MIT_License)
+
+## Tested
+
+This project is tested with [BrowserStack](https://BrowserStack.com) by 2/9/2022. 
